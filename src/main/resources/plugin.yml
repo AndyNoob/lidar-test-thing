@@ -1,0 +1,4 @@
+name: lidar
+version: '0.0.1-alpha'
+main: comfortable_andy.lidar.LidarMain
+api-version: '1.21'
